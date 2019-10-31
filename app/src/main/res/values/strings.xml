@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NikeAdmin</string>
+    <string name="err_email">Invalid email or password</string>
+</resources>
